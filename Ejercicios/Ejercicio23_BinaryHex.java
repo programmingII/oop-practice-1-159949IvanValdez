@@ -9,7 +9,7 @@ public class Ejercicio23_BinaryHex{
 	System.out.println("Ingrese un numero binario");// imprime el mensaje en pantalla 
 	String	bin=sc.nextLine();//Declaramos la variable bin como String y le asignamos el valor que se ingreso por medio del teclado usando el metodo nextLine() del objeto sc 
 	
-	int conv=Integer.parseInt(bin,2);//declaramos la variable dec como int y convertimos la variable bin a un decimal
+	int conv=Integer.parseInt(bin,2);//declaramos la variable conv como int y convertimos la variable bin a un decimal
 
 	String	hex=Integer.toString(conv,16).toUpperCase();//declaramos la variable hex como string y convertimos la variable bin a un String con base 16 para hexadecimal con el metodo toString y con el metodo toUpperCase() llamamos a las letras en mayusculas
 
