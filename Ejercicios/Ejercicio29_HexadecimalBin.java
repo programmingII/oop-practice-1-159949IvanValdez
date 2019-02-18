@@ -1,4 +1,4 @@
-/* 159949 Luis Ivan Valdez Anchondo 16/02/2019  8:40pm.*/
+/* 159949 Luis Ivan Valdez Anchondo 17/02/2019  8:40pm.*/
 
 import java.util.Scanner; //me permite escanear una entrada por teclado
 
